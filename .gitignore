@@ -1,0 +1,10 @@
+node_modules
+dist
+shots
+capture-tmp
+recordings
+.vercel
+.env
+.env.*
+*.log
+*.mp4
