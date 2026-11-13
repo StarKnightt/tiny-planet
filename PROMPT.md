@@ -3,8 +3,6 @@
 The prompt this game was built from, as given to Claude Code:
 
 ```text
-
-<pasted_content id="8063">
 build a tiny planet i can fly and walk around in the browser. three.js + vite + typescript, pnpm. use opus 5.5 subagents for the parallel work.
 
 a small round world like mario galaxy: ocean and beaches, rolling grass hills that sway, a pine forest, a little village with a lighthouse, a windmill that turns, clouds orbiting overhead. a day/night sweep so one side of the planet is always sunset, and at night the windows and lighthouse light up. wasd + mouse to walk, gravity pulls to the center so i can walk all the way around.
